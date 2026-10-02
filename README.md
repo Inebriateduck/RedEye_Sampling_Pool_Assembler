@@ -26,6 +26,6 @@ ULTRA is a module downstream of RedEye.R - as RedEye.R cannot extract certain ch
 The final module in the pipeline uses PyisEmail to verify that the remaining emails are valid. Invalid emails are removed from the master sheet. 
 
 #### This is still actively under development - It is developed as a volunteer project when I have time (updates may be sporadic)
-**All code Licensed under GPL-2**
+**All code Licensed under GPL-3**
 
 C. Daniel Fry, 2025
