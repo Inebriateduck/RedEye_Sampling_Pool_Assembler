@@ -5,7 +5,7 @@ RedEye is a software tool for use in the assembly of cross sectional survey (lar
 
 #### Please cite this repository if you use the software within
 ```
-Daniel Fry, & widalzahraa. (2026). Inebriateduck/RedEye_Pipeline: RedEye Pipeline (1.21). Zenodo. https://doi.org/10.5281/zenodo.19924218
+Fry, D., & Al-Khafaji, W. A.-Z. (2026). RedEye Sampling Pool Assembler (Version 1.21) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.16996503
 ```
 
 # Technical notes
